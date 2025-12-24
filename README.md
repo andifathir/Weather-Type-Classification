@@ -14,23 +14,22 @@
 
 <h1 align="center">📑 TABLE OF CONTENT</h1>
 
-1. [Project Overview](#-project-overview-)
+1. [Project Overview](#project-overview)
    - [Background](#background)
    - [Project Objectives](#project-objectives)
-2. [Dataset Source](#-dataset-source-)
-3. [Features Description](#-features-description-)
-4. [Preprocessing & Modeling](#-preprocessing--modeling-)
+2. [Dataset Source](#dataset-source)
+3. [Features Description](#features-description)
+4. [Preprocessing & Modeling](#preprocessing--modeling)
    - [Data Preprocessing](#data-preprocessing)
    - [Model Architectures](#model-architectures)
-5. [Installation Guide](#-installation-guide-)
+5. [Installation Guide](#installation-guide)
    - [Main Software](#main-software)
-   - [Dependencies](#dependencies)
+   - [Dependencies](#installation-pdm)
    - [Running the Streamlit App](#running-the-streamlit-app)
-6. [Results & Evaluation](#-results--evaluation-)
-7. [Streamlit Prediction System](#-streamlit-prediction-system-)
+6. [Results & Evaluation](#results--evaluation)
+7. [Streamlit Prediction System](#streamlit-prediction-system)
    - [Interface Overview](#interface-overview)
-   - [Live Demo](#live-demo)
-8. [Author](#-author-)
+8. [Author](#author)
 
 ---
 
