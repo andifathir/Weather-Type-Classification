@@ -242,7 +242,7 @@ The Streamlit dashboard allows users to:
 
 
 # 👤 Author 👤
-Andi Fathir Muzakki Diningrat (202210370311278) 
+Andi Fathir Muzakki Diningrat (202210370311278)  
 🎓 Informatics Engineering  
 📍 Indonesia  
 🔗 [GitHub](https://github.com/andifathir)
