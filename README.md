@@ -221,6 +221,17 @@ Model performance is evaluated using:
 
 ---
 
+### 📊 Model Comparison Analysis
+
+| Model Name | Accuracy | Analysis |
+|------------|----------|----------|
+| **MLP (Multi-Layer Perceptron)** | **0.91** | The MLP demonstrates fast convergence and high stability on tabular data. It achieves the highest accuracy among the evaluated models with a small gap between training and validation performance, indicating good generalization. This model serves as a strong and computationally efficient baseline. |
+| **TabNet** | **0.90** | TabNet leverages an attention-based mechanism to perform dynamic feature selection during training. The model exhibits stable validation performance with early stopping, and while its accuracy is slightly lower than MLP, it provides superior feature interpretability. |
+| **FT-Transformer** | **0.90** | The FT-Transformer shows a gradual and stable learning process, with consistent improvements throughout training. It effectively captures complex relationships between tabular features but requires more training epochs and higher computational cost compared to MLP. |
+
+
+---
+
 
 # 🖥️ Streamlit Prediction System 🖥️
 
