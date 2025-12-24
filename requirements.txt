@@ -1,0 +1,34 @@
+# =========================
+# Core
+# =========================
+numpy
+pandas
+scikit-learn
+joblib
+
+# =========================
+# Visualization
+# =========================
+matplotlib
+seaborn
+
+# =========================
+# Deep Learning - TensorFlow
+# =========================
+tensorflow
+
+# =========================
+# Deep Learning - PyTorch
+# =========================
+torch
+
+# =========================
+# Tabular Deep Learning
+# =========================
+pytorch-tabnet
+rtdl-revisiting-models
+
+# =========================
+# Streamlit App
+# =========================
+streamlit
