@@ -1,10 +1,11 @@
 <h1 align="center">🌦️ WEATHER TYPE CLASSIFICATION</h1>
 
 <div align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Weather Banner" width="520">
+  <img src="https://github.com/andifathir/Weather-Type-Classification/blob/master/images/Weathers.png?raw=true" alt="Weather Banner" width="520">
   <p>
     <small>
-      Image Source: <a href="YOUR_IMAGE_SOURCE_LINK">Access Here</a>
+      Image Source: <a href="https://www.pbslearningmedia.org/resource/buac17-k2-sci-ess-diffweather/different-types-of-weather/
+      ">Access Here</a>
     </small>
   </p>
 </div>
@@ -199,31 +200,25 @@ Model performance is evaluated using:
 
 ### Loss Curves per Model
 
-| Model | Loss Graph |
-|------|------------|
-| MLP | ![MLP Loss](MLP_LOSS_IMAGE_LINK_HERE) |
-| TabNet | ![TabNet Loss](TABNET_LOSS_IMAGE_LINK_HERE) |
-| FT-Transformer | ![FT-Transformer Loss](FTTRANSFORMER_LOSS_IMAGE_LINK_HERE) |
+| MLP | TabNet | FT-Transformer |
+|-----|--------|----------------|
+| ![MLP Loss](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/mlp_loss.png?raw=true) | ![TabNet Loss](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/tabnet_loss.png?raw=true) | ![FT-Transformer Loss](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/FT_Transformer_Loss.png?raw=true) |
 
 ---
 
 ### Accuracy Curves per Model
 
-| Model | Accuracy Graph |
-|------|----------------|
-| MLP | ![MLP Accuracy](MLP_ACCURACY_IMAGE_LINK_HERE) |
-| TabNet | ![TabNet Accuracy](TABNET_ACCURACY_IMAGE_LINK_HERE) |
-| FT-Transformer | ![FT-Transformer Accuracy](FTTRANSFORMER_ACCURACY_IMAGE_LINK_HERE) |
+| MLP | TabNet | FT-Transformer |
+|-----|--------|----------------|
+| ![MLP Accuracy](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/mlp_acc.png?raw=true) | ![TabNet Accuracy](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/tabnet_acc.png?raw=true) | ![FT-Transformer Accuracy](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/FT_Transformer_Acc.png?raw=true) |
 
 ---
 
 ## 🧮 Confusion Matrix Comparison
 
-| Model | Confusion Matrix |
-|------|------------------|
-| MLP | ![MLP Confusion Matrix](MLP_CONFUSION_MATRIX_IMAGE_LINK_HERE) |
-| TabNet | ![TabNet Confusion Matrix](TABNET_CONFUSION_MATRIX_IMAGE_LINK_HERE) |
-| FT-Transformer | ![FT-Transformer Confusion Matrix](FTTRANSFORMER_CONFUSION_MATRIX_IMAGE_LINK_HERE) |
+| MLP | TabNet | FT-Transformer |
+|-----|--------|----------------|
+| ![MLP Confusion Matrix](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/mlp_cm.png?raw=true) | ![TabNet Confusion Matrix](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/tabnet_cm.png?raw=true) | ![FT-Transformer Confusion Matrix](https://github.com/andifathir/Weather-Type-Classification/blob/master/images/FT_Transformer_CM.png?raw=true) |
 
 ---
 
@@ -239,12 +234,16 @@ The Streamlit dashboard allows users to:
   - Probability distribution across all classes
 
 ## Interface Overview
+
 <div align="center">
-  <img src="YOUR_UI_IMAGE_LINK" width="600">
+  <img src="https://github.com/andifathir/Weather-Type-Classification/blob/master/images/interface1.png?raw=true" width="600"><br>
+  <img src="https://github.com/andifathir/Weather-Type-Classification/blob/master/images/interface2.png?raw=true" width="600"><br>
+  <img src="https://github.com/andifathir/Weather-Type-Classification/blob/master/images/interface3.png?raw=true" width="600">
 </div>
+
 
 # 👤 Author 👤
 Andi Fathir Muzakki Diningrat (202210370311278) 
 🎓 Informatics Engineering  
 📍 Indonesia  
-🔗 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 [GitHub](https://github.com/andifathir)
